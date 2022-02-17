@@ -1,0 +1,1440 @@
+# 模糊抓取订阅链接
+
+- type: webfuzzsub
+  options:
+    url: http://104.128.81.6:8080/
+
+- type: webfuzzsub
+  options:
+    url: http://104.168.95.4:8080/
+    
+- type: webfuzzsub
+  options:
+    url: https://raw.githubusercontent.com/daycat/freev2/main/sublist
+
+- type: webfuzzsub
+  options:
+    url: http://111.229.220.110:5000/
+
+- type: webfuzzsub
+  options:
+    url: http://118.31.77.3/
+
+- type: webfuzzsub
+  options:
+    url: http://123.114.18.182:1234/
+
+- type: webfuzzsub
+  options:
+    url: http://139.196.162.200:9090/
+
+- type: webfuzzsub
+  options:
+    url: http://140.238.39.99:8096/
+
+- type: webfuzzsub
+  options:
+    url: http://149.248.8.112/
+
+- type: webfuzzsub
+  options:
+    url: http://149.248.8.112:8081/
+
+- type: webfuzzsub
+  options:
+    url: http://149.28.158.124/
+
+- type: webfuzzsub
+  options:
+    url: http://152.70.254.216:1234/
+
+- type: webfuzzsub
+  options:
+    url: http://158.101.93.192/
+
+- type: webfuzzsub
+  options:
+    url: http://172.104.109.93:8081/
+
+- type: webfuzzsub
+  options:
+    url: http://213.188.195.217/
+
+- type: webfuzzsub
+  options:
+    url: http://213.188.195.234/
+
+- type: webfuzzsub
+  options:
+    url: http://39.106.12.141:8081/
+
+- type: webfuzzsub
+  options:
+    url: http://8.135.91.61/
+
+- type: webfuzzsub
+  options:
+    url: http://emby.luoml.eu.org/
+
+- type: webfuzzsub
+  options:
+    url: http://mengbai.fun:10001/
+
+- type: webfuzzsub
+  options:
+    url: http://www.mengbai.fun:10001/
+
+- type: webfuzzsub
+  options:
+    url: http://www.wxshi.top:9090/
+
+- type: webfuzzsub
+  options:
+    url: http://wxshi.top:9090/
+
+- type: webfuzzsub
+  options:
+    url: https://101.32.189.119/
+
+- type: webfuzzsub
+  options:
+    url: https://120.27.121.82/
+
+- type: webfuzzsub
+  options:
+    url: https://121.5.240.196:8443/
+
+- type: webfuzzsub
+  options:
+    url: https://122.10.97.150/
+
+- type: webfuzzsub
+  options:
+    url: https://122.51.185.18/
+
+- type: webfuzzsub
+  options:
+    url: https://132.145.82.138/
+
+- type: webfuzzsub
+  options:
+    url: https://132.226.17.214/
+
+- type: webfuzzsub
+  options:
+    url: https://132.226.22.43/
+
+- type: webfuzzsub
+  options:
+    url: https://138.3.217.61/
+
+- type: webfuzzsub
+  options:
+    url: https://149.248.8.112/
+
+- type: webfuzzsub
+  options:
+    url: https://152.70.254.216/
+
+- type: webfuzzsub
+  options:
+    url: ttps://161.35.5.88/
+
+- type: webfuzzsub
+  options:
+    url: https://168.138.204.231/
+
+- type: webfuzzsub
+  options:
+    url: https://172.104.109.93/
+
+- type: webfuzzsub
+  options:
+    url: https://185.161.70.4/
+
+- type: webfuzzsub
+  options:
+    url: https://192.3.251.87/
+
+- type: webfuzzsub
+  options:
+    url: https://1rmb.tk/
+
+- type: webfuzzsub
+  options:
+    url: https://23.95.166.151/
+
+- type: webfuzzsub
+  options:
+    url: https://97.64.31.155/
+
+- type: webfuzzsub
+  options:
+    url: https://emby.luoml.eu.org/
+
+- type: webfuzzsub
+  options:
+    url: https://etproxypool.cf/
+
+- type: webfuzzsub
+  options:
+    url: https://etproxypool.ga/
+
+- type: webfuzzsub
+  options:
+    url: https://fq.lonxin.net/
+
+- type: webfuzzsub
+  options:
+    url: https://free.dswang.ga/
+
+- type: webfuzzsub
+  options:
+    url: https://free.kingfu.cf/
+
+- type: webfuzzsub
+  options:
+    url: https://hello.stgod.com/
+
+- type: webfuzzsub
+  options:
+    url: https://hk.xhrzg2017.xyz/
+
+- type: webfuzzsub
+  options:
+    url: https://hm2019721.ml/
+
+- type: webfuzzsub
+  options:
+    url: https://jd.jiangcan95.com/
+
+- type: webfuzzsub
+  options:
+    url: https://jiedian.faka77.tk/
+
+- type: webfuzzsub
+  options:
+    url: https://outseen.tk/
+
+- type: webfuzzsub
+  options:
+    url: https://proxies.bihai.cf/
+
+- type: webfuzzsub
+  options:
+    url: https://proxies.bihai.ml/
+
+- type: webfuzzsub
+  options:
+    url: https://proxy.51798.xyz/
+
+- type: webfuzzsub
+  options:
+    url: https://proxy.leefake.xyz/
+
+- type: webfuzzsub
+  options:
+    url: https://proxy.suntiefeng.com/
+
+- type: webfuzzsub
+  options:
+    url: https://proxy.whuboy.com/
+
+- type: webfuzzsub
+  options:
+    url: https://proxypool.fly.dev/
+
+- type: webfuzzsub
+  options:
+    url: https://proxypool.remon602.ga/
+
+- type: webfuzzsub
+  options:
+    url: https://proxypoolss.fly.dev/
+
+- type: webfuzzsub
+  options:
+    url: https://proxypoolv2.herokuapp.com/
+
+- type: webfuzzsub
+  options:
+    url: https://smart.zxcyec.top/
+
+- type: webfuzzsub
+  options:
+    url: https://ss.dswang.ga:8443/
+
+- type: webfuzzsub
+  options:
+    url: https://sspool.herokuapp.com/
+
+- type: webfuzzsub
+  options:
+    url: https://upan.tk/
+
+- type: webfuzzsub
+  options:
+    url: https://www.linbaoz.com/
+
+- type: webfuzzsub
+  options:
+    url: https://www.proxypool.ml/
+
+- type: webfuzzsub
+  options:
+    url: https://233660.xyz/
+
+- type: webfuzzsub
+  options:
+    url: https://6166888.xyz/
+
+- type: webfuzzsub
+  options:
+    url: https://ditan.ml/
+
+- type: webfuzzsub
+  options:
+    url: http://emby.luoml.eu.org
+
+- type: webfuzzsub
+  options:
+    url: https://etproxypool.ga/
+
+- type: webfuzzsub
+  options:
+    url: https://fq.lonxin.net/
+
+- type: webfuzzsub
+  options:
+    url: https://free.dswang.ga/
+
+- type: webfuzzsub
+  options:
+    url: https://free.kingfu.cf/
+
+- type: webfuzzsub
+  options:
+    url: https://free.mengbai.cf/
+
+- type: webfuzzsub
+  options:
+    url: https://free886.herokuapp.com/
+
+- type: webfuzzsub
+  options:
+    url: https://fu.stgod.com/
+
+- type: webfuzzsub
+  options:
+    url: https://hello.stgod.com/
+
+- type: webfuzzsub
+  options:
+    url: https://hm2019721.ml/
+
+- type: webfuzzsub
+  options:
+    url: https://outseen.tk/
+
+- type: webfuzzsub
+  options:
+    url: https://proxy.51798.xyz/
+
+- type: webfuzzsub
+  options:
+    url: https://proxy.purel.in/
+
+- type: webfuzzsub
+  options:
+    url: https://proxypool-guest997.herokuapp.com/
+
+- type: webfuzzsub
+  options:
+    url: https://proxypool.fly.dev/
+
+- type: webfuzzsub
+  options:
+    url: https://ss.dswang.ga:8443/
+
+- type: webfuzzsub
+  options:
+    url: https://sspool.herokuapp.com/
+
+- type: webfuzzsub
+  options:
+    url: https://sspool.nl/
+
+- type: webfuzzsub
+  options:
+    url: https://www.linbaoz.com/
+
+- type: webfuzzsub
+  options:
+    url: https://zz.guicloud.xyz/
+
+- type: webfuzzsub
+  options:
+    url: https://www.linbaoz.com/
+
+- type: webfuzzsub
+  options:
+    url: https://proxy.purel.in/
+
+- type: webfuzzsub
+  options:
+    url: https://clashpool.ml/
+
+- type: webfuzzsub
+  options:
+    url: https://ditan.ml/
+
+- type: webfuzzsub
+  options:
+    url: http://104.128.81.6:8080/
+
+- type: webfuzzsub
+  options:
+    url: http://104.168.95.4:8080/
+
+- type: webfuzzsub
+  options:
+    url: http://111.229.220.110:5000/
+
+- type: webfuzzsub
+  options:
+    url: http://118.31.77.3/
+
+- type: webfuzzsub
+  options:
+    url: http://123.114.18.182:1234/
+
+- type: webfuzzsub
+  options:
+    url: http://139.196.162.200:9090/
+
+- type: webfuzzsub
+  options:
+    url: http://140.238.39.99:8096/
+
+- type: webfuzzsub
+  options:
+    url: http://149.248.8.112/
+
+- type: webfuzzsub
+  options:
+    url: http://149.248.8.112:8081/
+
+- type: webfuzzsub
+  options:
+    url: http://149.28.158.124/
+
+- type: webfuzzsub
+  options:
+    url: http://152.70.254.216:1234/
+
+- type: webfuzzsub
+  options:
+    url: http://158.101.93.192/
+
+- type: webfuzzsub
+  options:
+    url: http://172.104.109.93:8081/
+
+- type: webfuzzsub
+  options:
+    url: http://213.188.195.217/
+
+- type: webfuzzsub
+  options:
+    url: http://213.188.195.234/
+
+- type: webfuzzsub
+  options:
+    url: http://39.106.12.141:8081/
+
+- type: webfuzzsub
+  options:
+    url: http://8.135.91.61/
+
+- type: webfuzzsub
+  options:
+    url: http://emby.luoml.eu.org/
+
+- type: webfuzzsub
+  options:
+    url: http://mengbai.fun:10001/
+
+- type: webfuzzsub
+  options:
+    url: http://www.mengbai.fun:10001/
+
+- type: webfuzzsub
+  options:
+    url: http://www.wxshi.top:9090/
+
+- type: webfuzzsub
+  options:
+    url: http://wxshi.top:9090/
+
+- type: webfuzzsub
+  options:
+    url: https://101.32.189.119/
+
+- type: webfuzzsub
+  options:
+    url: https://120.27.121.82/
+
+- type: webfuzzsub
+  options:
+    url: https://121.5.240.196:8443/
+
+- type: webfuzzsub
+  options:
+    url: https://122.10.97.150/
+
+- type: webfuzzsub
+  options:
+    url: https://122.51.185.18/
+
+- type: webfuzzsub
+  options:
+    url: https://132.145.82.138/
+
+- type: webfuzzsub
+  options:
+    url: https://132.226.17.214/
+
+- type: webfuzzsub
+  options:
+    url: https://132.226.22.43/
+
+- type: webfuzzsub
+  options:
+    url: https://138.3.217.61/
+
+- type: webfuzzsub
+  options:
+    url: https://149.248.8.112/
+
+- type: webfuzzsub
+  options:
+    url: https://152.70.254.216/
+
+- type: webfuzzsub
+  options:
+    url: https://161.35.5.88/
+
+- type: webfuzzsub
+  options:
+    url: https://168.138.204.231/
+
+- type: webfuzzsub
+  options:
+    url: https://172.104.109.93/
+
+- type: webfuzzsub
+  options:
+    url: https://185.161.70.4/
+
+- type: webfuzzsub
+  options:
+    url: https://192.3.251.87/
+
+- type: webfuzzsub
+  options:
+    url: https://1rmb.tk/
+
+- type: webfuzzsub
+  options:
+    url: https://23.95.166.151/
+
+- type: webfuzzsub
+  options:
+    url: https://97.64.31.155/
+
+- type: webfuzzsub
+  options:
+    url: https://emby.luoml.eu.org/
+
+- type: webfuzzsub
+  options:
+    url: https://etproxypool.cf/
+
+- type: webfuzzsub
+  options:
+    url: https://etproxypool.ga/
+
+- type: webfuzzsub
+  options:
+    url: https://fq.lonxin.net/
+
+- type: webfuzzsub
+  options:
+    url: https://free.dswang.ga/
+
+- type: webfuzzsub
+  options:
+    url: https://free.kingfu.cf/
+
+- type: webfuzzsub
+  options:
+    url: https://hello.stgod.com/
+
+- type: webfuzzsub
+  options:
+    url: https://hk.xhrzg2017.xyz/
+
+- type: webfuzzsub
+  options:
+    url: https://hm2019721.ml/
+
+- type: webfuzzsub
+  options:
+    url: https://jd.jiangcan95.com/
+
+- type: webfuzzsub
+  options:
+    url: https://jiedian.faka77.tk/
+
+- type: webfuzzsub
+  options:
+    url: https://outseen.tk/
+
+- type: webfuzzsub
+  options:
+    url: https://proxies.bihai.cf/
+
+- type: webfuzzsub
+  options:
+    url: https://proxies.bihai.ml/
+
+- type: webfuzzsub
+  options:
+    url: https://proxy.51798.xyz/
+
+- type: webfuzzsub
+  options:
+    url: https://proxy.leefake.xyz/
+
+- type: webfuzzsub
+  options:
+    url: https://proxy.suntiefeng.com/
+
+- type: webfuzzsub
+  options:
+    url: https://proxy.whuboy.com/
+
+- type: webfuzzsub
+  options:
+    url: https://proxypool.fly.dev/
+
+- type: webfuzzsub
+  options:
+    url: https://proxypool.remon602.ga/
+
+- type: webfuzzsub
+  options:
+    url: https://proxypoolss.fly.dev/
+
+- type: webfuzzsub
+  options:
+    url: https://proxypoolv2.herokuapp.com/
+
+- type: webfuzzsub
+  options:
+    url: https://smart.zxcyec.top/
+
+- type: webfuzzsub
+  options:
+    url: https://ss.dswang.ga:8443/
+
+- type: webfuzzsub
+  options:
+    url: https://sspool.herokuapp.com/
+
+- type: webfuzzsub
+  options:
+    url: https://upan.tk/
+
+- type: webfuzzsub
+  options:
+    url: https://www.linbaoz.com/
+
+- type: webfuzzsub
+  options:
+    url: https://www.proxypool.ml/
+
+# 节点池
+
+- type: webfuzzsub
+  options:
+    url: https://233660.xyz/
+
+- type: webfuzzsub
+  options:
+    url: https://6166888.xyz/
+
+- type: webfuzzsub
+  options:
+    url: https://ditan.ml/
+
+- type: webfuzzsub
+  options:
+    url: http://emby.luoml.eu.org
+
+- type: webfuzzsub
+  options:
+    url: https://etproxypool.ga/
+
+- type: webfuzzsub
+  options:
+    url: https://fq.lonxin.net/
+
+- type: webfuzzsub
+  options:
+    url: https://free.dswang.ga/
+
+- type: webfuzzsub
+  options:
+    url: https://free.kingfu.cf/
+
+- type: webfuzzsub
+  options:
+    url: https://free.mengbai.cf/
+
+- type: webfuzzsub
+  options:
+    url: https://free886.herokuapp.com/
+
+- type: webfuzzsub
+  options:
+    url: https://fu.stgod.com/
+
+- type: webfuzzsub
+  options:
+    url: https://hello.stgod.com/
+
+- type: webfuzzsub
+  options:
+    url: https://hm2019721.ml/
+
+- type: webfuzzsub
+  options:
+    url: https://outseen.tk/
+
+- type: webfuzzsub
+  options:
+    url: https://proxy.51798.xyz/
+
+- type: webfuzzsub
+  options:
+    url: https://proxy.purel.in/
+
+- type: webfuzzsub
+  options:
+    url: https://proxypool-guest997.herokuapp.com/
+
+- type: webfuzzsub
+  options:
+    url: https://proxypool.fly.dev/
+
+- type: webfuzzsub
+  options:
+    url: https://ss.dswang.ga:8443/
+
+- type: webfuzzsub
+  options:
+    url: https://sspool.herokuapp.com/
+
+- type: webfuzzsub
+  options:
+    url: https://sspool.nl/
+
+- type: webfuzzsub
+  options:
+    url: https://www.linbaoz.com/
+
+- type: webfuzzsub
+  options:
+    url: https://zz.guicloud.xyz/
+
+- type: webfuzzsub
+  options:
+    url: https://www.linbaoz.com/ https://proxy.purel.in/
+
+- type: webfuzzsub
+  options:
+    url: https://clashpool.ml/ https://ditan.ml/
+
+- type: webfuzzsub
+  options:
+    url: https://raw.githubusercontent.com/du5/free/master/sub.list
+    
+- type: webfuzzsub
+  options:
+    url: https://raw.githubusercontent.com/shoujiyanxishe/atu/main/etproxypool.list
+
+- type: webfuzzsub
+  options:
+    url: https://github.com/alanbobs999/TopFreeProxies
+
+- type: webfuzzsub
+  options:
+    url: https://github.com/ThekingMX1998/free-v2ray-code
+
+- type: webfuzzsub
+  options:
+    url: https://hello.stgod.com/
+
+- type: webfuzzsub
+  options:
+    url: https://proxies.bihai.cf/
+
+- type: webfuzzsub
+  options:
+    url: https://sspool.nl/
+
+- type: webfuzzsub
+  options:
+    url: https://proxypool-guest997.herokuapp.com/
+
+- type: webfuzzsub
+  options:
+    url: https://fq.lonxin.net/
+
+- type: webfuzzsub
+  options:
+    url: https://free886.herokuapp.com/
+
+- type: webfuzzsub
+  options:
+    url: https://proxypool.fly.dev/
+
+- type: webfuzzsub
+  options:
+    url: http://8.135.91.61/
+
+- type: webfuzzsub
+  options:
+    url: https://proxy.51798.xyz/
+
+- type: webfuzzsub
+  options:
+    url: https://sspool.herokuapp.com/
+
+- type: webfuzzsub
+  options:
+    url: https://us-proxypool.herokuapp.com/
+
+- type: webfuzzsub
+  options:
+    url: https://eu-proxypool.herokuapp.com/
+
+- type: webfuzzsub
+  options:
+    url: http://www.fuckgfw.tk/
+
+- type: webfuzzsub
+  options:
+    url: https://etproxypool.ga/
+
+- type: webfuzzsub
+  options:
+    url: https://free.kingfu.cf/
+
+- type: webfuzzsub
+  options:
+    url: https://www.linbaoz.com/
+
+- type: webfuzzsub
+  options:
+    url: https://www.qunima.cc/
+
+- type: webfuzzsub
+  options:
+    url: https://www.joemt.tk/
+
+- type: webfuzzsub
+  options:
+    url: https://smart.zxcyec.top/
+
+- type: webfuzzsub
+  options:
+    url: http://158.101.93.192/
+
+- type: webfuzzsub
+  options:
+    url: https://168.138.204.231/
+
+- type: webfuzzsub
+  options:
+    url: http://111.229.220.110:5000/
+
+- type: webfuzzsub
+  options:
+    url: https://hk.xhrzg2017.xyz/
+
+- type: webfuzzsub
+  options:
+    url: http://39.106.12.141:8081/
+
+- type: webfuzzsub
+  options:
+    url: http://213.188.195.234/
+
+- type: webfuzzsub
+  options:
+    url: https://outseen.tk/
+
+- type: webfuzzsub
+  options:
+    url: http://149.248.8.112/
+
+- type: webfuzzsub
+  options:
+    url: https://161.35.5.88/
+
+- type: webfuzzsub
+  options:
+    url: http://104.128.81.6:8080/
+
+- type: webfuzzsub
+  options:
+    url: http://wxshi.top:9090/
+
+- type: webfuzzsub
+  options:
+    url: http://104.168.95.4:8080/
+
+- type: webfuzzsub
+  options:
+    url: https://proxy.whuboy.com/
+    
+- type: webfuzzsub
+  options:
+    url: https://gfwglass.tk/
+
+- type: webfuzzsub
+  options:
+    url: https://zua426.cf/
+
+- type: webfuzzsub
+  options:
+    url: https://185.161.70.4/
+
+- type: webfuzzsub
+  options:
+    url: http://161.35.5.88:8082/
+
+- type: webfuzzsub
+  options:
+    url: http://213.188.195.217/
+
+- type: webfuzzsub
+  options:
+    url: https://de.sanshihui.win/
+
+- type: webfuzzsub
+  options:
+    url: http://124.127.108.210:12345/
+
+- type: webfuzzsub
+  options:
+    url: http://guobang.herokuapp.com/
+
+- type: webfuzzsub
+  options:
+    url: https://1rmb.tk/
+
+- type: webfuzzsub
+  options:
+    url: https://998988.xyz/
+
+- type: webfuzzsub
+  options:
+    url: https://alexproxy003.herokuapp.com/
+    
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+
+- type: webfuzzsub
+  options:
+    url: https://free.dswang.ga/
+
+- type: webfuzzsub
+  options:
+    url: https://free.zdl.im/
+
+- type: webfuzzsub
+  options:
+    url: https://fu.stgod.com/
+
+- type: webfuzzsub
+  options:
+    url: https://jiedian.faka77.tk/
+
+- type: webfuzzsub
+  options:
+    url: https://hellopool.herokuapp.com/
+
+- type: webfuzzsub
+  options:
+    url: https://origamiboy.herokuapp.com/
+
+- type: webfuzzsub
+  options:
+    url: https://proxy.suntiefeng.com/
+
+- type: webfuzzsub
+  options:
+    url: https://proxypoolss.fly.dev/
+
+- type: webfuzzsub
+  options:
+    url: https://ednovas.design/
+    
+- type: webfuzzsub
+  options:
+    url: https://raw.fastgit.org/zissv/z/sub/v2ray
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://www.cxkv2.xyz/link/LjZKATiUXxNb6BHj?mu=2
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/FMYC2015/Clash/main/Bahamut
+
+- type: subscribe
+  options: 
+    url: https://raw.githubusercontent.com/FMYC2015/Clash/main/Ednovas
+    
+- type: subscribe
+  options:
+    url: https://c1n.cn/1yZhT
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/houlaoshi/Free-airport-line/main/EP100.txt
+    
+- type: subscribe
+  options:
+    url: https://fq.lonxin.net/ss/sub
+    
+- type: subscribe
+  options:
+    url: https://dy.wmyun.men/link/I2XQUKxIdJS61Og6?mu=2
+    
+- type: subscribe
+  options:
+    url: https://v2r.yydsvpn.xyz/api/v1/client/subscribe?token=413926e85f23cb104538fc892751a4ac
+    
+- type: subscribe
+  options:
+    url: https://subs.holytech.bid/quantumult.php?sid=75496&token=yiZKpqLxby6b
+    
+- type: subscribe
+  options:
+    url: https://www.cxkv2.xyz/link/LjZKATiUXxNb6BHj
+    
+- type: subscribe
+  options:
+    url: https://sub.v2hub.icu/link/OjT5CvEfdurTz6wV?config=1
+    
+- type: subscribe
+  options:
+    url: http://rinki.xyz/link/KEMYKriP0YBlz5Kx
+    
+- type: subscribe
+  options:
+    url: https://qingchengjisu.tk/api/v1/client/subscribe?token=ff89035714ddc123257da8eaaace1926
+
+- type: subscribe
+  options:
+    url: https://sub.sweetcloud.top/api/v1/client/subscribe?token=cc16c52cf4e0368d1e19aa07741eda7b
+
+- type: subscribe
+  options:
+    url: https://gitlab.com/api/v4/projects/30160106/repository/files/data%2FA%2F11.txt/raw?ref=main&private_token=glpat-NfBkGJjSD6GtkPzVuJuS
+    
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
+    
+- type: subscribe
+  options:
+    url: https://fq.lonxin.net/ssr/sub
+    
+- type: subscribe
+  options:
+    url: https://fq.lonxin.net/vmess/sub
+    
+- type: subscribe
+  options:
+    url: https://fq.lonxin.net/trojan/sub
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
+
+- type: subscribe
+  options:
+    url: https://sspool.herokuapp.com/ss/sub
+
+- type: subscribe
+  options:
+    url: https://sspool.herokuapp.com/ssr/sub
+
+- type: subscribe
+  options:
+    url: https://sspool.herokuapp.com/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://sspool.herokuapp.com/trojan/sub
+
+- type: subscribe
+  options:
+    url: https://ednovas.design/ss/sub
+
+- type: subscribe
+  options:
+    url: https://ednovas.design/ssr/sub
+
+- type: subscribe
+  options:
+    url: https://ednovas.design/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://ednovas.design/trojan/sub
+    
+- type: subscribe
+  options:
+    url: https://proxy.leefake.xyz/ss/sub
+
+- type: subscribe
+  options:
+    url: https://proxy.leefake.xyz/ssr/sub
+
+- type: subscribe
+  options:
+    url: https://proxy.leefake.xyz/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://proxy.leefake.xyz/trojan/sub
+    
+- type: subscribe
+  options:
+    url: https://proxy.whuboy.com/ss/sub
+    
+- type: subscribe
+  options:
+    url: https://proxy.whuboy.com/ssr/sub
+    
+- type: subscribe
+  options:
+    url: https://proxy.whuboy.com/vmess/sub
+    
+- type: subscribe
+  options:
+    url: https://free.dswang.ga/ss/sub
+    
+- type: subscribe
+  options:
+    url: https://free.dswang.ga/ssr/sub
+    
+- type: subscribe
+  options:
+    url: https://free.dswang.ga/vmess/sub
+    
+- type: subscribe
+  options:
+    url: https://free.dswang.ga/trojan/sub
+    
+- type: subscribe
+  options:
+    url: https://free.zdl.im/ss/sub
+    
+- type: subscribe
+  options:
+    url: https://free.zdl.im/ssr/sub
+    
+- type: subscribe
+  options:
+    url: https://free.zdl.im/vmess/sub
+    
+- type: subscribe
+  options:
+    url: https://free.zdl.im/trojan/sub
+- type: subscribe
+  options:
+    url: https://www.cxkv2.xyz/link/LjZKATiUXxNb6BHj?mu=2
+    
+- type: subscribe
+  options:
+    url: https://niaocloud-rss.com/link/bZL9KiRUPvBM7X7n?list=shadowrocket
+    
+- type: subscribe
+  options:
+    url: https://mimon.cc/api/v1/client/subscribe?token=4719a005a94cfe9dc6cced67630822c9
+
+- type: subscribe
+  options:
+    url: https://github.com/git-yusteven/openit/raw/main/2022/2/8
+
+- type: subscribe
+  options:
+    url: https://github.com/git-yusteven/openit/raw/main/long
+
+- type: subscribe
+  options:
+    url: https://suo.yt/dnHbcQb
+
+- type: subscribe
+  options:
+    url: https://proxypoolss.tk/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://jiang.netlify.app/
+    
+- type: subscribe
+  options:
+    url: https://dy.xyun.us/api/v1/client/subscribe?token=8797b099d9d92837cf055d7407399a2a&flag=shadowrocket
+
+- type: subscribe
+  options:
+    url: https://v2mmy.xyz/api/v1/client/subscribe?token=f724593e18a8f98561d0c7354fca3f74
+
+- type: subscribe
+  options:
+    url: https://tro.zqwnan.tk/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://pool-840979.asia1.kinto.io/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://gooii.ml/v2ray/sub
+
+- type: subscribe
+  options:
+    url: https://youlianboshi.netlify.com/
+
+- type: subscribe
+  options:
+    url: https://v2ray.banyunxiaoxi.ml/
+
+- type: subscribe
+  options:
+    url: https://qcppl.team/api/v1/client/subscribe?token=009cd94f70d9990a08b2f80314e2c690
+
+- type: subscribe
+  options:
+    url: https://proxypoolss.tk/trojan/sub
+    
+- type: subscribe
+  options: 
+    url: https://cdn.mirror.cn.com/api/v1/client/subscribe?token=ff89035714ddc123257da8eaaace1926
+
+
+- type: subscribe
+  options:
+    url: https://proxypoolsstest.herokuapp.com/trojan/sub
+
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/chfchf0306/clash/main/clash
+
+- type: clash
+  options:
+    url: https://raw.fastgit.org/git-yusteven/openit/main/long
+
+- type: clash
+  options:
+    url: https://suo.yt/QfLntjO
+
+- type: clash
+  options:
+    url: https://mkkhack.pw/Clash
+    
+- type: subscribe
+  options:
+    url: https://proxypoolss.tk/ss/sub
+
+- type: subscribe
+  options:
+    url: https://proxypoolsstest.herokuapp.com/ss/sub
+    
+- type: subscribe
+  options:
+    url: https://api.crhnode.top/subscribe/47740/YAoDWFoI2N/ssr/
+
+- type: subscribe
+  options:
+    url: https://proxypoolss.tk/ssr/sub
+
+- type: subscribe
+  options:
+    url: https://proxypoolsstest.herokuapp.com/ssr/sub
+
+- type: subscribe
+  options:
+    url: https://fast.losadhwselfff2332dasd.xyz/link/5AhOKq588TlKUisL?sub=1
+
+- type: webfuzzsub
+  options:
+    url: https://merlinblog.xyz/wiki/freess.html
+
+- type: webfuzz
+  options:
+    url: https://merlinblog.xyz/wiki/freess.html
+    
+# 网页模糊抓取
+- type: webfuzz
+  options:
+    url: https://merlinblog.xyz/wiki/freess.html
+
+- type: webfuzz
+  options:
+    url: https://github.com/freefq/free
+    
+- type: webfuzz
+  options:
+    url: https://github.com/v2raydy/v2ray
+    
+- type: webfuzz
+  options:
+    url: https://yyds.fovi.tk/psboruc34813owyhr.html
+
+# tg频道抓取
+- type: tgchannel
+  options:
+    channel: ssrList
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: ssrsub
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: nodesharing
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: mftizi
+    num: 200
+    
+- type: tgchannel
+  options:
+    channel: sharecenter
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: dafeiji100
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: vmess_tg
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: freebaipiao
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: freev2rays
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: v2list
+    num: 200
+
+# 翻墙党论坛抓取
+- type: web-fanqiangdang
+  options:
+    url: https://fanqiangdang.com/forum-48-1.html
+    
+# clash
+- type: clash
+  options:
+    url: https://free.dswang.ga/clash/config
+
+- type: clash
+  options:
+    url: https://free.zdl.im/clash/proxies
+    
+- type: clash
+  options:
+    url: https://sspool.herokuapp.com/clash/config
+    
+- type: clash
+  options:
+    url: https://free.kingfu.cf/clash/config
+
+- type: clash
+  options:
+    url: https://proxies.bihai.cf/clash/config
+    
+- type: clash
+  options:
+    url: https://fq.lonxin.net/clash/config
+    
+- type: clash
+  options:
+    url: https://us-proxypoolherokuapp.com/clash/config
+    
+- type: clash
+  options:
+    url: http://104.128.81.6:8080/clash/config
+    
+- type: clash
+  options:
+    url: https://hk.xhrzg2017.xyz/clash/config
+    
+- type: clash
+  options:
+    url: http://wxshi.top:9090/clash/config
+    
+- type: clash
+  options:
+    url: https://free.zdl.im/clash/config
+    
+- type: clash
+  options:
+    url: http://www.fuckgfw.tk:1234/clash/config
+    
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.yml
+    
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.yml
+    
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
+
+# 某个网站抓取
+- type: web-freessrxyz
+  options:
+    url: https://github.com/pojiezhiyuanjun/freev2
+    
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/MiuliKain/FreeNode/main/lastest/v2ray
+
