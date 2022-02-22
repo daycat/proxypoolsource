@@ -67,3 +67,4 @@ https://bigairport.icu/api/v1/client/subscribe?token=b7095e693681e94382ae5edf1f9
 https://paste.in/raw/vG8rWG
 https://qingchengjisu.tk/api/v1/client/subscribe?token=ff89035714ddc123257da8eaaace1926
 https://445600.ml/yunbaitechnodes
+https://www.lilicloud.tk/api/v1/client/subscribe?token=ba6f8179e756d432601ce2916414e1a6&flag=v2ray
