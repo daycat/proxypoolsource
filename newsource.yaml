@@ -1,0 +1,204 @@
+- type: clash
+  options:
+    url: https://sspool.herokuapp.com/clash/proxies
+
+- type: clash
+  options:
+    url: http://wxshi.top:9090/clash/proxies
+
+- type: clash
+  options:
+    url: https://fq.lonxin.net/clash/proxies
+
+- type: clash
+  options:
+    url: https://proxies.bihai.cf/clash/proxies
+    
+- type: clash
+  options:
+    url: https://free.dswang.ga/clash/proxies
+
+- type: clash
+  options:
+    url: https://proxypoolss.fly.dev/clash/proxies
+
+- type: clash
+  options:
+    url: https://origamiboy.herokuapp.com/clash/proxies
+
+- type: clash
+  options:
+    url: https://hellopool.herokuapp.com/clash/proxies
+
+- type: clash
+  options:
+    url: http://guobang.herokuapp.com/clash/proxies
+
+- type: clash
+  options:
+    url: http://213.188.195.234/clash/proxies
+
+- type: clash
+  options:
+    url: http://39.106.12.141:8081/clash/proxies
+
+- type: clash
+  options:
+    url: https://eu-proxypool.herokuapp.com/clash/proxies
+    
+- type: clash
+  options:
+    url: https://us-proxypool.herokuapp.com/clash/proxies
+
+- type: clash
+  options:
+    url: https://free886.herokuapp.com/clash/proxies
+
+- type: clash
+  options:
+    url: https://free.dswang.ga/clash/proxies
+
+- type: clash
+  options:
+    url: https://proxy.yugogo.xyz/clash/proxies
+
+- type: clash
+  options:
+    url: https://proxypool.laowang.me/clash/proxies
+
+- type: clash
+  options:
+    url: https://klausvpn.posyao.com/clash/proxies
+
+- type: clash
+  options:
+    url: http://proxypool.918848.xyz/clash/proxies
+
+- type: clash
+  options:
+    url: http://49.233.28.108:1314/clash/proxies
+
+- type: clash
+  options:
+    url: http://clash.3wking.com:12580/clash/proxies
+
+- type: clash
+  options:
+    url: https://www.sdufe.tk/clash/proxies
+
+- type: clash
+  options:
+    url: https://proxypool.laowang.me/clash/proxies
+
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/Eternity.yml
+    
+- type: subscribe
+  options:
+    url: https://jiang.netlify.app
+
+- type: subscribe
+  options:
+    url: https://youlianboshi.netlify.app
+
+- type: subscribe
+  options:
+    url: https://qiaomenzhuanfx.netlify.app
+    
+- type: subscribe
+  options:
+    url: https://iwxf.netlify.app
+
+- type: web-fanqiangdang
+  options:
+    url: https://fanqiangdang.com/forum-48-1.html
+    
+- type: tgchannel
+  options:
+    channel: v2list
+    num: 200
+    
+- type: tgchannel
+  options:
+    channel: freev2rays
+    num: 200
+    
+- type: tgchannel
+  options:
+    channel: vmess_tg
+    num: 200
+    
+- type: tgchannel
+  options:
+    channel: freebaipiao
+    num: 200
+    
+- type: tgchannel
+  options:
+    channel: dafeiji100
+    num: 200
+    
+- type: tgchannel
+  options:
+    channel: mftizi
+    num: 200
+    
+- type: tgchannel
+  options:
+    channel: nodesharing
+    num: 200
+    
+- type: tgchannel
+  options:
+    channel: ssrsub
+    num: 200
+    
+- type: tgchannel
+  options:
+    channel: ssrList
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: aifenxiang2020
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: airproxies
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: p2psharing
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: baipiao01
+    num: 200
+    
+- type: tgchannel
+  options:
+    channel: app_jiedian
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: sharingnode
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: WangCai_1
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: univstar
+    num: 200
+    
+- type: webfuzzsub
+  options:
+    url: https://raw.githubusercontent.com/du5/free/master/sub.list
