@@ -94,6 +94,14 @@
   options:
     url: https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/Eternity.yml
     
+- type: clash
+  options:
+    url: https://openit.daycat.space/clash
+    
+- type: clash
+  options:
+    url: https://pre.paimon.gq/clash.yaml
+    
 - type: subscribe
   options:
     url: https://jiang.netlify.app
