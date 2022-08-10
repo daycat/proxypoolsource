@@ -207,6 +207,11 @@
     channel: univstar
     num: 200
     
+- type: tgchannel
+  options:
+    channel: fffffx2
+    num: 200
+    
 - type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/du5/free/master/sub.list
